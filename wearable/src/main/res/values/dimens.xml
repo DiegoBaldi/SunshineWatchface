@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_hour_size">40dp</dimen>
+    <dimen name="digital_hour_size_round">44dp</dimen>
+    <dimen name="digital_date_size">20dp</dimen>
+    <dimen name="digital_date_size_round">22dp</dimen>
+    <dimen name="digital_high_size">30dp</dimen>
+    <dimen name="digital_high_size_round">33dp</dimen>
+    <dimen name="digital_low_size">20dp</dimen>
+    <dimen name="digital_low_size_round">22dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_y_offset">70dp</dimen>
+    <dimen name="digital_y_offset_round">90dp</dimen>
+    <dimen name="digital_image_y_offset_round">20dp</dimen>
+    <dimen name="digital_image_y_offset">10dp</dimen>
+    <dimen name="digital_line_y_offset_round">23dp</dimen>
+    <dimen name="digital_line_y_offset">15dp</dimen>
+</resources>
